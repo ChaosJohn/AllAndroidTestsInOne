@@ -1,0 +1,4 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:state_pressed="true" android:drawable="@color/red_dark"/>
+        <item android:state_pressed="false"  android:drawable="@color/red_light"/>
+</selector><!-- From: file:/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/message_send_selector.xml -->

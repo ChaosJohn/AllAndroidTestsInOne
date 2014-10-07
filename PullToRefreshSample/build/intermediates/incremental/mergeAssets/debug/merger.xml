@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshSample/build/intermediates/exploded-aar/AllTestInOne/PullToRefreshLibrary/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshSample/build/intermediates/exploded-aar/AllTestInOne/PullToRefreshViewPager/unspecified/assets" />
+    </dataSet>
+    <dataSet config="unspecified" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshSample/build/intermediates/exploded-aar/AllTestInOne/PullToRefreshListFragment/unspecified/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshSample/src/main/assets" >
+            <file
+                name="ptr_webview2_sample.html"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshSample/src/main/assets/ptr_webview2_sample.html" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshSample/src/debug/assets" />
+    </dataSet>
+
+</merger>

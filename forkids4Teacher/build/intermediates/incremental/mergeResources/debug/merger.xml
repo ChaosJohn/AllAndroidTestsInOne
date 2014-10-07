@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_bottom_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_bottom_pressed.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_weekly_recipe_btn_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_weekly_recipe_btn_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_weekly_recipe_btn_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_weekly_recipe_btn_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ok_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/ok_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_middle_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_middle_normal.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_journal_btn_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_journal_btn_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back_btn_selector_red"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/back_btn_selector_red.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="edit_background_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/edit_background_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ok_btn_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/ok_btn_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_moments_btn_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_moments_btn_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="avatar_empty"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/avatar_empty.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/photo_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_middle_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_middle_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="pen_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/pen_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_border"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/spinner_border.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="message_send_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/message_send_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back_btn_red"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/back_btn_red.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_teaching_plan_btn_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_teaching_plan_btn_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_arrow_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_arrow_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="round_corner_btn_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/round_corner_btn_normal.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="round_corner_btn_background_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/round_corner_btn_background_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_top_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_top_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_attendance_btn_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_attendance_btn_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back_btn_selector_grey"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/back_btn_selector_grey.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/photo_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="avatar_kid"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/avatar_kid.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_bottom_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_bottom_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="journal_pen"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/journal_pen.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_arrow_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_arrow_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ok_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/ok_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_attendance_btn_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_attendance_btn_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="journal_pen1"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/journal_pen1.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="add"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/add.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="back_btn_grey"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/back_btn_grey.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/camera_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_teaching_plan_btn_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_teaching_plan_btn_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_middle_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_middle_pressed.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="welcome_login_button"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/welcome_login_button.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="call_btn_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/call_btn_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="arrow_down"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/arrow_down.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_journal_btn_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_journal_btn_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_arrow_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_arrow_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="call_btn_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/call_btn_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_attendance_btn_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_attendance_btn_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/camera_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_bottom_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_bottom_normal.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_moments_btn_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_moments_btn_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_weekly_recipe_btn_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_weekly_recipe_btn_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="welcome_input_layout"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/welcome_input_layout.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="photo_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/photo_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="journal_input_button"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/journal_input_button.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="call_btn_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/call_btn_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="camera_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/camera_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_top_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_top_pressed.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_linearlayout_background_split_top_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_linearlayout_background_split_top_normal.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_journal_btn_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_journal_btn_pressed.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="round_corner_btn_pressed"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/round_corner_btn_pressed.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="comment_btn"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/comment_btn.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_teaching_plan_btn_normal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_teaching_plan_btn_normal.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="homepage_moments_btn_selector"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-hdpi/homepage_moments_btn_selector.xml"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_bus"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_bus.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_journal"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_journal.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spinner_window"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/spinner_window.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="messages_listview_item"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/messages_listview_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="imageview_item"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/imageview_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_homepage"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_homepage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_login"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_welcome"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_welcome.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_tips_edit"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_tips_edit.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spinner_item"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/spinner_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_upload"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_upload.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="bus_listview_item_kid"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/bus_listview_item_kid.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_messages"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_messages.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_journal_edit"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_journal_edit.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="attendance_popwindow"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/attendance_popwindow.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="progressbar_layout"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/progressbar_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="journal_listview_item"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/journal_listview_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="bus_listview_item_stop"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/bus_listview_item_stop.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_tips_details"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_tips_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="attendance_listview_item"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/attendance_listview_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_journal_details"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_journal_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_attendance"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_attendance.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tips_listview_item"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/tips_listview_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_tips"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/layout/activity_tips.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable/ic_launcher.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="welcome"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/menu/welcome.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="attendance"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/menu/attendance.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="bus"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/menu/bus.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="messages"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/menu/messages.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="homepage"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/menu/homepage.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_welcome" >Welcome
+                </string>
+                <string name="title_activity_attendance" >Attendance
+                </string>
+                <string name="title_activity_bus" >Bus
+                </string>
+                <string name="text_title" >应用文件夹一直以来是很多Windows Phone用户想用，但Windows Phone系统又一直缺失的功能，而目前在诺基亚的Windows Phone当中终于
+                </string>
+                <string name="app_name" >Forkids4Teacher
+                </string>
+                <string name="text" >\t圣诞节是一个西方节日，对西方人来说，是亲人团聚的温馨时刻。对于大学生来说，是一个了解西方文化的窗口，更是一个狂欢的盛宴。\n\t圣诞节来临!还在为自己独身一个人而迷茫吗？？还在为无以安放的青春而困扰吗？还在为圣诞佳节没有人陪伴而担心吗？在这个浪漫的圣诞佳节，在这个节日气息浓重的夜晚，舞林风交谊舞协会携手电气院女生部，新闻院生活权益部，经管院BGirl社诚挚邀请您走进梅操，和大家一起欢度佳节，和我们一起舞动青春！ 
+不会跳舞？无需顾忌！简单动感的各种集体舞，你一学就会！欢快愉悦的阿拉伯之夜！可爱活泼的兔子舞！灵活动感的十六步！激情四射的恰恰！梦幻优雅的华尔兹！\n\t大家一起狂欢，一曲舞蹈之后你定会融入这佳节的氛围！\n\t圣诞节是一个西方节日，对西方人来说，是亲人团聚的温馨时刻。对于大学生来说，是一个了解西方文化的窗口，更是一个狂欢的盛宴。\n\t圣诞节来临!还在为自己独身一个人而迷茫吗？？还在为无以安放的青春而困扰吗？还在为圣诞佳节没有人陪伴而担心吗？在这个浪漫的圣诞佳节，在这个节日气息浓重的夜晚，舞林风交谊舞协会携手电气院女生部，新闻院生活权益部，经管院BGirl社诚挚邀请您走进梅操，和大家一起欢度佳节，和我们一起舞动青春！ 
+不会跳舞？无需顾忌！简单动感的各种集体舞，你一学就会！欢快愉悦的阿拉伯之夜！可爱活泼的兔子舞！灵活动感的十六步！激情四射的恰恰！梦幻优雅的华尔兹！\n\t大家一起狂欢，一曲舞蹈之后你定会融入这佳节的氛围！
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="title_activity_messages" >Messages
+                </string>
+            </file>
+            <file
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="red_light" >#DA6E68
+                </color>
+                <color name="edit_pressed" >#eeeeee
+                </color>
+                <color name="red_dark" >#E9CBCA
+                </color>
+                <color name="edit_normal" >#E9CBCA
+                </color>
+            </file>
+            <file
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="ic_launcher"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/main/res/drawable-ldpi/ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+        </source>
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/build/generated/res/rs/debug" />
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/debug/res" />
+    </dataSet>
+
+</merger>

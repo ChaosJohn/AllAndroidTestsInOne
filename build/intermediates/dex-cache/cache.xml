@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/build/intermediates/pre-dexed/debug/jsoup-1.7.3-f9cf101d5835f1d5b04421b49d7bf97e0415d01b.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/libs/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-3bc822a4868ef83ecf1ca2e887153fb9c792f79f.jar"
+        jar="/home/chaos/Work/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/build/intermediates/pre-dexed/debug/support-v4-19.0.1-71da8ed5d4df9e22756a50359b81d914a06df239.jar"
+        jar="/home/chaos/Work/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/pre-dexed/debug/picasso-2.3.2-a8e8ff8fdc512586e45bb0f361378343c2e479a9.jar"
+        jar="/home/chaos/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/pre-dexed/debug/classes-448bbd800057d8ad03c6a6dbc00fbdffa1712adf.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1291844b2492549c5d14c544f131afeb6c64232c.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/pre-dexed/debug/classes-3b0a32314adfb0805ef374dd205e2fef7124765c.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/app2/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

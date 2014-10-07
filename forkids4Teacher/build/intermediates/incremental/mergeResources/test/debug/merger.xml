@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/src/androidTest/res" />
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/build/generated/res/rs/test/debug" />
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/forkids4Teacher/build/generated/res/generated/test/debug" />
+    </dataSet>
+
+</merger>

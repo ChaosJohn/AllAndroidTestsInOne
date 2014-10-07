@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshListFragment/src/main/res" >
+            <file
+                name="need_this_for_maven"
+                path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshListFragment/src/main/res/layout/need_this_for_maven.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshListFragment/build/generated/res/rs/debug" />
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshListFragment/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/chaos/AndroidstudioProjects/AllTestInOne/PullToRefreshListFragment/src/debug/res" />
+    </dataSet>
+
+</merger>

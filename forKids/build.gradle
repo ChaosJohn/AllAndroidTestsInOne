@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "19.1.0"
+
+    defaultConfig {
+        applicationId "com.huaijv.forkids"
+        minSdkVersion 8
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':social_sdk_library_project')
+    compile 'com.android.support:support-v4:19.0.1'
+    compile files('libs/baidumapapi_v2_3_5.jar')
+    compile files('libs/jpush-sdk-release1.5.6.jar')
+    compile files('libs/jsoup-1.7.3.jar')
+    compile files('libs/locSDK_3.1.jar')
+    compile files('libs/slidingmenu.jar')
+}
