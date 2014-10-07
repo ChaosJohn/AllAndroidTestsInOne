@@ -24,6 +24,7 @@ public class TestCapsulation extends Activity {
 //        linearLayout.addView(capsulationView.getView(this));
 //        ((LinearLayout)findViewById(R.id.capsulation_linearlayout)).addView((new CapsulationView(this)).getView(this));
 //        createView(this, R.id.capsulation_linearlayout);
+        //
         (new CapsulationView()).createView(this, R.id.capsulation_linearlayout);
     }
 
