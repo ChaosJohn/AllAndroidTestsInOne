@@ -1,4 +1,4 @@
-include ':app', ':EncapsulationView', ':PullToRefreshListFragment', ':PullToRefreshViewPager', ':PullToRefreshSample', ':PullToRefreshLibrary', ':sample', ':library'
+include ':app', ':EncapsulationView', ':PullToRefreshListFragment', ':PullToRefreshViewPager', ':PullToRefreshSample', ':PullToRefreshLibrary'
 include ':forkids4Teacher'
 include ':social_sdk_library_project'
 include ':forKids'
