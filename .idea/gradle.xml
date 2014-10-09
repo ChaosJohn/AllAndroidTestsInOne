@@ -5,7 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/plugins/gradle-1.12" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/plugins/gradle-1.10" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/PullToRefreshSample" />
             <option value="$PROJECT_DIR$/PullToRefreshViewPager" />
             <option value="$PROJECT_DIR$/TestVolley" />
+            <option value="$PROJECT_DIR$/TrineaAndroidCommon" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/forKids" />
             <option value="$PROJECT_DIR$/forkids4Teacher" />

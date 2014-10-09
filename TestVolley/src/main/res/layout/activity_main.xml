@@ -44,8 +44,21 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="btn4" />
+
+        <Button
+            android:id="@+id/btn_jump"
+            android:text="*"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
     </LinearLayout>
 
+    <Button
+        android:id="@+id/btn_jump2"
+        android:text="Jump to PullToRefresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
     <ImageView
         android:id="@+id/default_imageview"

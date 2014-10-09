@@ -2,3 +2,4 @@ include ':app', ':EncapsulationView', ':PullToRefreshListFragment', ':PullToRefr
 include ':forkids4Teacher'
 include ':social_sdk_library_project'
 include ':forKids'
+include ':TrineaAndroidCommon'

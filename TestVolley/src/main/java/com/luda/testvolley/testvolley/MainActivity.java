@@ -1,6 +1,7 @@
 package com.luda.testvolley.testvolley;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
@@ -53,8 +54,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        ((TextView) findViewById(R.id.default_textview)).setText(TAG);
-//        Toast.makeText(this, this.getClass().getName(), Toast.LENGTH_LONG).show();
+
         imageView = (ImageView) findViewById(R.id.default_imageview);
         linearLayout = (LinearLayout) findViewById(R.id.linearlayout);
 
@@ -71,8 +71,11 @@ public class MainActivity extends Activity {
         int imageHeight = options.outHeight;
         int imageWidth = options.outWidth;
         String imageType = options.outMimeType;
-        Toast.makeText(this, imageHeight + "/" + imageWidth + "/" + imageType, Toast.LENGTH_LONG).show();
+        Toast.makeText(this, imageHeight + "_" + imageWidth + "_" + imageType, Toast.LENGTH_LONG).show();
 
+        ((TextView) findViewById(R.id.default_textview)).setText(imageHeight + "_" + imageWidth + "_" + imageType);
+//        ((TextView) findViewById(R.id.default_textview)).setText(TAG);
+//        Toast.makeText(this, this.getClass().getName(), Toast.LENGTH_LONG).show();
 
         imageLoader = new ImageLoader(requestQueue, new ImageLoader.ImageCache() {
             @Override
@@ -207,6 +210,20 @@ public class MainActivity extends Activity {
                 networkImageView.setLayoutParams(new AbsListView.LayoutParams(AbsListView.LayoutParams.WRAP_CONTENT, AbsListView.LayoutParams.WRAP_CONTENT));
                 linearLayout.addView(networkImageView);
                 networkImageView.setImageUrl(IMAGEURL, imageLoader);
+            }
+        });
+
+        findViewById(R.id.btn_jump).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, PhotoList.class));
+            }
+        });
+
+        findViewById(R.id.btn_jump2).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, PullToRefresh.class));
             }
         });
     }
