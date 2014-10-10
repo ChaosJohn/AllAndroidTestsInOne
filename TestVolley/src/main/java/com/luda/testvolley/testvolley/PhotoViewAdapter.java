@@ -97,18 +97,20 @@ public class PhotoViewAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         PhotoViewItem photoViewItem = null;
-        if (null == convertView) {
+//        if (null == convertView) {
             convertView = listContainer.inflate(R.layout.photo_item, null);
             photoViewItem = new PhotoViewItem();
             photoViewItem.textView = (TextView) convertView.findViewById(R.id.photo_item_textview);
             photoViewItem.imageView = (ImageView) convertView.findViewById(R.id.photo_item_imageview);
             photoViewItem.imageListener = ImageLoader.getImageListener(photoViewItem.imageView, R.drawable.refreshing, R.drawable.ic_launcher);
+
 //            photoViewItem.imageListener = ImageLoader.getImageListener(photoViewItem.imageView, R.drawable.refreshing, R.drawable.ic_launcher);
 //            photoViewItem.imageListener = ImageLoader.getImageListener()
-            convertView.setTag(photoViewItem);
-        } else {
-            photoViewItem = (PhotoViewItem) convertView.getTag();
-        }
+
+//            convertView.setTag(photoViewItem);
+//        } else {
+//            photoViewItem = (PhotoViewItem) convertView.getTag();
+//        }
 
 
 

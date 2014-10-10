@@ -73,7 +73,8 @@ public class MainActivity extends Activity {
         String imageType = options.outMimeType;
         Toast.makeText(this, imageHeight + "_" + imageWidth + "_" + imageType, Toast.LENGTH_LONG).show();
 
-        ((TextView) findViewById(R.id.default_textview)).setText(imageHeight + "_" + imageWidth + "_" + imageType);
+        ((TextView) findViewById(R.id.default_textview)).setText(OtherUtils.concatenateRequestUrlFromBaseUrlAndParams("http://www.baidu.com"));
+//        ((TextView) findViewById(R.id.default_textview)).setText(imageHeight + "_" + imageWidth + "_" + imageType);
 //        ((TextView) findViewById(R.id.default_textview)).setText(TAG);
 //        Toast.makeText(this, this.getClass().getName(), Toast.LENGTH_LONG).show();
 

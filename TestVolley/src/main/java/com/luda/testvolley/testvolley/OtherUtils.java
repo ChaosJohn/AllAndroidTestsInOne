@@ -159,4 +159,18 @@ public class OtherUtils {
 		}
 		return null;
 	}
+
+    public static String concatenateRequestUrlFromBaseUrlAndParams(String... params) {
+
+        String requestUrl = params[0] + (params.length > 1 ? "?" : "");
+        for (int i = 1; i < params.length; i++) {
+            requestUrl += params[i] + "&";
+        }
+        if (requestUrl.endsWith("&")) {
+            requestUrl = (String)requestUrl.subSequence(0, requestUrl.length() - 1);
+        }
+
+        return requestUrl;
+    }
+
 }

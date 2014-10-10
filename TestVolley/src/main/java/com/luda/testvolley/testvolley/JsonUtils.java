@@ -69,14 +69,18 @@ public class JsonUtils {
      * @param jsonString
      * @return
      */
-    public static List<Map<String, Object>> jsonArray2List(String jsonString)
-            throws JSONException {
-        jsonArray = new JSONArray(jsonString);
-        listItems = new ArrayList<Map<String, Object>>();
-        for (int i = 0; i < jsonArray.length(); i++) {
-            tempJsonObject = jsonArray.getJSONObject(i);
-            listItems.add(jsonObject2Map(tempJsonObject.toString()));
+    public static List<Map<String, Object>> jsonArray2List(String jsonString) {
+        try {
+            jsonArray = new JSONArray(jsonString);
+            listItems = new ArrayList<Map<String, Object>>();
+            for (int i = 0; i < jsonArray.length(); i++) {
+                tempJsonObject = jsonArray.getJSONObject(i);
+                listItems.add(jsonObject2Map(tempJsonObject.toString()));
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
         }
+
         return listItems;
     }
 
@@ -87,12 +91,15 @@ public class JsonUtils {
      * @return
      * @throws org.json.JSONException
      */
-    public static String list2JsonArrayString(List<Map<String, Object>> list)
-            throws JSONException {
-        jsonArray = new JSONArray();
-        for (int i = 0; i < list.size(); i++) {
-            tempJsonObject = new JSONObject(list.get(i));
-            jsonArray.put(i, tempJsonObject);
+    public static String list2JsonArrayString(List<Map<String, Object>> list) {
+        try {
+            jsonArray = new JSONArray();
+            for (int i = 0; i < list.size(); i++) {
+                tempJsonObject = new JSONObject(list.get(i));
+                jsonArray.put(i, tempJsonObject);
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
         }
         return jsonArray.toString();
     }
@@ -125,36 +132,41 @@ public class JsonUtils {
      * @return
      * @throws org.json.JSONException
      */
-    public static Map<String, Object>jsonObject2Map(String jsonString)
-            throws JSONException {
-
-        JSONObject jsonObject;
-        jsonObject = new JSONObject(jsonString);
+    public static Map<String, Object> jsonObject2Map(String jsonString) {
+        Map<String, Object> valueMap = new HashMap<String, Object>();
         @SuppressWarnings("unchecked")
-        Iterator<String> keyIter = jsonObject.keys();
         String key;
         Object value;
-        Map<String, Object> valueMap = new HashMap<String, Object>();
-        while (keyIter.hasNext()) {
-            key = (String) keyIter.next();
-            value = jsonObject.get(key);
-            valueMap.put(key, value);
+        JSONObject jsonObject;
+        try {
+            jsonObject = new JSONObject(jsonString);
+            Iterator<String> keyIter = jsonObject.keys();
+            while (keyIter.hasNext()) {
+                key = (String) keyIter.next();
+                value = jsonObject.get(key);
+                valueMap.put(key, value);
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
         }
         return valueMap;
 
     }
 
-    public static Map<String, Object> jsonObject2Map(JSONObject jsonObject)
-            throws JSONException {
+    public static Map<String, Object> jsonObject2Map(JSONObject jsonObject) {
+        Map<String, Object> valueMap = new HashMap<String, Object>();
         @SuppressWarnings("unchecked")
         Iterator<String> keyIter = jsonObject.keys();
         String key;
         Object value;
-        Map<String, Object> valueMap = new HashMap<String, Object>();
-        while (keyIter.hasNext()) {
-            key = (String) keyIter.next();
-            value = jsonObject.get(key);
-            valueMap.put(key, value);
+        try {
+            while (keyIter.hasNext()) {
+                key = (String) keyIter.next();
+                value = jsonObject.get(key);
+                valueMap.put(key, value);
+            }
+        } catch (JSONException e) {
+            e.printStackTrace();
         }
         return valueMap;
 

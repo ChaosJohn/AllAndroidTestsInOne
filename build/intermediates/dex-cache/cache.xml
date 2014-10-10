@@ -2,22 +2,22 @@
 <pre-dex-items>
 
     <item
-        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/pre-dexed/debug/classes-df1ab29c787912302a2272936edc34387ab6a237.jar"
-        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/exploded-aar/AllTestInOne/TrineaAndroidCommon/unspecified/classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e741e97ad903b17b30c16fdc2416ecd7c812e84a"/>
-    <item
         dex="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/pre-dexed/debug/volley-d1c080f220d3dba8621c27de88150dba58e8159a.jar"
         jar="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/libs/volley.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d"/>
     <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/pre-dexed/debug/classes-df1ab29c787912302a2272936edc34387ab6a237.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/exploded-aar/AllTestInOne/TrineaAndroidCommon/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9fc5b2d1873bf54b9bd1f246d84177ea9dc5c2ce"/>
+    <item
         dex="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/pre-dexed/debug/classes-281eebde65e477253b3d8fb51a42f7e167e793b6.jar"
         jar="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/exploded-aar/AllTestInOne/PullToRefreshLibrary/unspecified/classes.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="8947d81ca739eee2a0d10868463650d481b557f1"/>
+        sha1="9891eaf7f6b3edff457b21a6b3e8e86d258f06d4"/>
 
 </pre-dex-items>
