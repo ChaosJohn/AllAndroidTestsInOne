@@ -2,11 +2,23 @@
 <pre-dex-items>
 
     <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoUI/build/intermediates/pre-dexed/debug/easemobchat_2.1.0-b90b6f170de567a154e84d0c8ba91fba23b3c336.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoUI/libs/easemobchat_2.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c8703bf1ba46ebfbb46ff3e3346d7fe0edcc038b"/>
+    <item
         dex="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/pre-dexed/debug/volley-d1c080f220d3dba8621c27de88150dba58e8159a.jar"
         jar="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/libs/volley.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoUI/build/intermediates/pre-dexed/debug/support-v4-18.0.0-d4b4681fdae52a29c9bb74c395685967dc8d5242.jar"
+        jar="/home/chaos/Work/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
     <item
         dex="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/pre-dexed/debug/classes-df1ab29c787912302a2272936edc34387ab6a237.jar"
         jar="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/exploded-aar/AllTestInOne/TrineaAndroidCommon/unspecified/classes.jar"
@@ -14,10 +26,28 @@
         revision="20.0.0"
         sha1="9fc5b2d1873bf54b9bd1f246d84177ea9dc5c2ce"/>
     <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoNonUI/build/intermediates/pre-dexed/debug/easemobchat_2.1.0-69c783bbe4a62d63caed97e43e1fe140268ccb69.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoNonUI/libs/easemobchat_2.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c8703bf1ba46ebfbb46ff3e3346d7fe0edcc038b"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoUI/build/intermediates/pre-dexed/debug/baidumapapi_v2_1_1-ea1be1c137c94ee8f448e3e5353773e0e783c1ab.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoUI/libs/baidumapapi_v2_1_1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="77d4bf7e56fd4fd16c00e030d8dda537fc82cffb"/>
+    <item
         dex="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/pre-dexed/debug/classes-281eebde65e477253b3d8fb51a42f7e167e793b6.jar"
         jar="/home/chaos/AndroidstudioProjects/AllTestInOne/TestVolley/build/intermediates/exploded-aar/AllTestInOne/PullToRefreshLibrary/unspecified/classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="9891eaf7f6b3edff457b21a6b3e8e86d258f06d4"/>
+    <item
+        dex="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoUI/build/intermediates/pre-dexed/debug/locSDK_3.3-6e5a7120f8928910e0b98b6dfc96483f883b4678.jar"
+        jar="/home/chaos/AndroidstudioProjects/AllTestInOne/EaseMobChatDemoUI/libs/locSDK_3.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f"/>
 
 </pre-dex-items>

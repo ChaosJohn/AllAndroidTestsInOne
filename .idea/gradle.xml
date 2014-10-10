@@ -9,6 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/EaseMobChatDemoNonUI" />
+            <option value="$PROJECT_DIR$/EaseMobChatDemoUI" />
             <option value="$PROJECT_DIR$/EncapsulationView" />
             <option value="$PROJECT_DIR$/PullToRefreshLibrary" />
             <option value="$PROJECT_DIR$/PullToRefreshListFragment" />
