@@ -18,12 +18,12 @@
             <option value="$PROJECT_DIR$/PullToRefreshListFragment" />
             <option value="$PROJECT_DIR$/PullToRefreshSample" />
             <option value="$PROJECT_DIR$/PullToRefreshViewPager" />
+            <option value="$PROJECT_DIR$/TestUmeng" />
             <option value="$PROJECT_DIR$/TestVolley" />
             <option value="$PROJECT_DIR$/TrineaAndroidCommon" />
+            <option value="$PROJECT_DIR$/UmengLibrary4.1" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/forKids" />
             <option value="$PROJECT_DIR$/forkids4Teacher" />
-            <option value="$PROJECT_DIR$/social_sdk_library_project" />
           </set>
         </option>
       </GradleProjectSettings>
